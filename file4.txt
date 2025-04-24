@@ -1,0 +1,5 @@
+sdlc 
+softwrae devolpment life cycle
+plan design code {dev}
+releasse deploy monitor{ops}
+git GitHub are tools used in devops 
