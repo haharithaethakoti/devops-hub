@@ -8,12 +8,6 @@ pipeline {
             }
         }
 
-        stage('test') {
-            steps {
-                sh 'echo "test the application..."'
-            }
-        }
-
         stage('Run') {
             steps {
                 sh 'echo "Running the application..."'
