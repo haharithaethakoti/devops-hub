@@ -14,12 +14,6 @@ pipeline {
             }
         }
 
-        stage('Run') {
-            steps {
-                sh 'echo "Running the application..."'
-            }
-        }
-
         stage('deploy') {
             steps {
                 sh 'echo "deploy the application..."'
